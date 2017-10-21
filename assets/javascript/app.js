@@ -224,5 +224,4 @@ if ((answerChosen == 'D') && (questionArray[index].flags[3] == true)) {
 });
 
 
-//	$('#start').click(countdownTimer.start);
 });
